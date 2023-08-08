@@ -9,7 +9,8 @@ class RegistrationActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registration)
 
-        val loginBtn:Button = findViewById(R.id.loginButton)
-        val re
+
+
+
     }
 }
